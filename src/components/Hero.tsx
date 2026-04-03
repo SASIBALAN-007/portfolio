@@ -42,7 +42,7 @@ export const Hero = () => {
               transition={{ duration: 0.6, delay: 0.2 }}
               className="text-5xl md:text-7xl font-bold text-white mb-12 tracking-tight"
             >
-              Software Developer
+              full-stack web developer
             </motion.h1>
             
             <motion.div 
@@ -57,7 +57,7 @@ export const Hero = () => {
                 href="#contact" 
                 className="px-8 py-3 bg-[#ff5733] text-white rounded-md font-bold transition-all"
               >
-                Get a project?
+                Contact
               </motion.a>
               <motion.a 
                 whileHover={{ scale: 1.05 }}
