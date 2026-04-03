@@ -50,7 +50,7 @@ export const Contact = () => {
       icon: Github,
       label: "GitHub",
       value: "github.com/SASIBALAN-007",
-      href: "https://github.com,",
+      href: "https://github.com",
       color: "bg-gray-800"
     },
     {
