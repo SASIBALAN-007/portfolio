@@ -43,7 +43,7 @@ export const Contact = () => {
       icon: Mail,
       label: "Email",
       value: "sasi89810@gmail.com",
-      href: "mailto:hello@developer.com",
+      href: "mailto:sasi89810@gmail.com",
       color: "bg-[#ff5733]"
     },
     {
