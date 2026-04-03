@@ -42,22 +42,22 @@ export const Contact = () => {
     {
       icon: Mail,
       label: "Email",
-      value: "hello@developer.com",
+      value: "sasi89810@gmail.com",
       href: "mailto:hello@developer.com",
       color: "bg-[#ff5733]"
     },
     {
       icon: Github,
       label: "GitHub",
-      value: "github.com/username",
-      href: "https://github.com",
+      value: "github.com/SASIBALAN-007",
+      href: "https://github.com,",
       color: "bg-gray-800"
     },
     {
       icon: Linkedin,
       label: "LinkedIn",
-      value: "linkedin.com/in/username",
-      href: "https://linkedin.com",
+      value: "linkedin.com/in/sasi-balan-81466b292",
+      href: "https://www.linkedin.com/in/sasi-balan-81466b292/",
       color: "bg-[#ff5733]/80"
     }
   ];
